@@ -1,0 +1,23 @@
+*   {
+  background-color: #3D9970;
+    }
+
+body {
+    font-family: 'Cabin Condensed', roboto;
+    text-align: center;
+    }
+
+
+
+img{
+    border: solid 2px #111111;
+    display: block;
+    margin: 0 auto;
+    width: 40%;
+    height: auto;
+    }
+
+#navcontainer ul { 
+    margin: 0;
+    padding: 0;
+    list-style-type: none; }
